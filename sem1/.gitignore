@@ -1,0 +1,14 @@
+# Object files
+*.o
+*.obj
+*.exe
+
+# Eclipse files
+.classpath
+.project
+.settings/
+.cproject
+
+# Build artifacts
+Debug/
+Release/
